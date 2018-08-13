@@ -1,0 +1,3 @@
+メソッド
+__init__(self, name):Umrオブジェクトの名前をnameに格納、応答オブジェクトを生成してresponderに格納
+dialogue(self, input):応答オブジェクトのresponse()を呼び出して応答オブジェクトを取得する

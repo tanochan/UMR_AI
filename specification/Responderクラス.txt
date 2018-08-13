@@ -1,0 +1,4 @@
+メソッド
+__init__(self, name, dictionary):Responderオブジェクトの名前をnameに格納
+response(self, input, mood):オーバーライドを前提としたresponse()メソッド
+get_name(self):応答オブジェクトの名前を返す

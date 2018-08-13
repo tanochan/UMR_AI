@@ -1,0 +1,2 @@
+メソッド
+response(self, input, mood):ランダムな応答のために行うサブクラス

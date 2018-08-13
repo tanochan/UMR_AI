@@ -1,0 +1,8 @@
+フィールド
+MOOD_MIN=-15:機嫌値の下限
+MOOD_MAX=15:機嫌値の上限
+MOOD_RECOVERY=0.5:回復値
+メソッド
+__init__(self, dictionary):Dictionaryオブジェクトをdictionaryに格納し、機嫌値moodを0で初期化
+update(self, inout):ユーザーからの入力をパラメーターinputで受け取り、パターン辞書にマッチさせて機嫌値を変動させる
+adjust_mood:機嫌値を増減させる

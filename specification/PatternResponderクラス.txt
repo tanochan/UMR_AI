@@ -1,0 +1,2 @@
+メソッド
+response(self, input, mood):パターンにマッチした場合に応答文字列を作って返す

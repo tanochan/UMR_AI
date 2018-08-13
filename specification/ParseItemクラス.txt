@@ -1,0 +1,7 @@
+フィールド
+SEPARATOR:正規表現のパターンで初期化する
+メソッド
+__init__(self, pattern, phrases):
+match(self, str)
+choice(self, mood)
+suitable(self, need, mood)
