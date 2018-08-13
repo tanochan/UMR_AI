@@ -1,2 +1,5 @@
+# __pycache__ディレクトリ以下を無視
 __pycache__/
+
+# memoryディレクトリ以下を無視
 memory/
