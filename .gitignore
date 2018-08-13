@@ -3,3 +3,6 @@ __pycache__/
 
 # pictureディレクトリ以下を無視
 picture/
+
+# defaltPicutreディレクトリ以下を無視
+defaltPicture/
