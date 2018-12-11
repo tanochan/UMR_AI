@@ -1,6 +1,20 @@
 # UMR_AI
 Pythonで作成した会話プログラム
 
+## ディレクトリ構成
+```
+┝ person.py  
+┝ looks.py  
+┝ mouth.py  
+┝ head.py  
+┝ pharseLog.txt  
+┝ memory/
+│    ┝ pattern.txt  
+│    └ storagetxt  
+│
+└ picture/  
+```
+
 ## 実行方法
 ```
 python looks.py
